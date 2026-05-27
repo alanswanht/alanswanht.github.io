@@ -1,4 +1,3 @@
-# Alan Swanster's Apps
 This site gives a brief introduction to my apps.
 I have created 1 so far, for tracking my blood pressure readings
 
